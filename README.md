@@ -67,7 +67,7 @@ Cliquez sur l'onglet *Issue*, en haut de cette page, puis sur *New issue*. Garde
 
 ### Pourquoi GitHub ?
 
-nutCreation est un projet initié par une (https://www.onlinecreation.pro)[agence web] qui utilise beaucoup GitHub dans ses travaux. Même si c'est un outil avant tout créé pour le développement informatique, c'est aussi une excellente plateforme permettant de faciliter les travaux sur des textes. Gardez à l'esprit que nous ne réalisons pas une simple recette de cuisine, mais une révolution !
+nutCreation est un projet initié par une [agence web](https://www.onlinecreation.pro) qui utilise beaucoup GitHub dans ses travaux. Même si c'est un outil avant tout créé pour le développement informatique, c'est aussi une excellente plateforme permettant de faciliter les travaux sur des textes. Gardez à l'esprit que nous ne réalisons pas une simple recette de cuisine, mais une révolution !
 
 ### Puis-je vendre du nutCreation ?
 
