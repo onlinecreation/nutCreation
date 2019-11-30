@@ -1,4 +1,4 @@
-# nutCreation
+# ![nutCreation](https://user-images.githubusercontent.com/6106446/69907226-5d24b200-13d1-11ea-801a-969704796c57.png)
 
 La pâte à tartiner pralinée-cacao open source
 
