@@ -13,7 +13,7 @@ C'est un projet collaboratif qui a pour objectif est de créer la meilleure pât
 C'est très simple : 
 
 1. Consultez et réalisez la [recette](Recette.md).
-2. Imprimez l'[étiquette (10 cm x 5 cm)](E%CC%81tiquette.pdf) et collez-la sur le contenant de votre préparation.
+2. Imprimez l'[étiquette (10 cm x 5 cm)](E%CC%81tiquette.pdf), remplissez les cadres `Poids` et `Fabriqué par` et collez-la sur le contenant de votre préparation.
 3. Partagez votre nutCreation avec votre famille, vos amis, votre date, votre belle-mère...
 4. (facultatif) Proposez aux gens de scanner le QRcode de l'étiquette pour faire la même chose chez eux.
 
