@@ -4,9 +4,9 @@ La pâte à tartiner pralinée-cacao open source
 
 ## Qu'est-ce que c'est ?
 
-Une révolution : une pâte à tartiner facile et rapide à faire, bon marché, sans huile de palme.
+Une révolution : une pâte à tartiner facile et rapide à faire, bon marché, sans huile de palme et qui ne s'achète pas.
 
-C'est un projet collaboratif qui a pour objectif est de créer la meilleure pâte à tartiner, facile à confectionner avec des ingrédients choisis pour leurs qualités gustatives, tout en excluant autant que possible des produits toxiques ou néfastes pour la nature et les animaux, humains ou non. C'est peut-être même la première révolution du XXIème siècle qui ne coûte pas un mois de salaire !
+C'est un projet collaboratif qui a pour objectif est de créer la meilleure pâte à tartiner, facile à confectionner avec des ingrédients choisis pour leurs qualités gustatives, tout en excluant autant que possible des produits toxiques ou néfastes pour la nature et les animaux, humains ou non. C'est la première révolution du XXIème siècle qui ne s'achète pas !
 
 ## Comment faire ?
 
@@ -16,6 +16,9 @@ C'est très simple :
 2. Imprimez l'[étiquette (10 cm x 5 cm)](E%CC%81tiquette.pdf), remplissez les cadres `Poids` et `Fabriqué par` et collez-la sur le contenant de votre préparation.
 3. Partagez votre nutCreation avec votre famille, vos amis, votre date, votre belle-mère...
 4. (facultatif) Proposez aux gens de scanner le QRcode de l'étiquette pour faire la même chose chez eux.
+
+> 💡 **Astuce**
+> Imprimez l'étiquette au bon format avec votre imprimante et votre papier habituel puis collez-la sur un récipiant en verre avec un petit peu de **lait** appliqué au pinceau sur le papier.
 
 ## Open source
 
@@ -45,7 +48,7 @@ DESCRIPTION DE MA RECETTE
 3. ETAPE DE PREPARATION
 ```
 3. Supprimez du texte que vous avez copié toutes les inscriptions en majuscules (`TITRE DE MA RECETTE`, `DESCRIPTION DE MA RECETTE`, `INGREDIENT`, `QUANTITE`, `ETAPE DE PREPARATION` et remplissez les trous.
-4. Enregistrez votre recette au format texte brut et donnez-lui un nom de la forme `TITRE DE MA RECETTE.md` (notez l'extension `.md`).
+4. Enregistrez votre recette au format *texte brut* et donnez-lui un nom de la forme `TITRE DE MA RECETTE.md` (notez l'extension `.md`).
 5. Ouvrez l'explorateur de fichiers (ou Finder) et recherchez le fichier que vous venez de créer.
 6. Rendez-vous sur https://github.com/onlinecreation/nutCreation
 7. Glissez-déposez votre fichier vers GitHub.
@@ -61,11 +64,15 @@ La recette recommande l'usage de chocolats, dont du chocolat au lait, et de prod
 
 Plusieurs essais sont en cours, mais il est très difficile de trouver un chocolat praliné doux sans lait. N'hésitez pas à soumettre votre propre recette si vous êtes arrivés à trouver une alternative.
 
+### Je préfère les amandes aux noisettes.
+
+N'hésitez pas à proposer votre recette, elle sera mise en avant !
+
 ### J'ai un problème avec la recette. Quelqu'un peut m'aider ?
 
-Cliquez sur l'onglet *Issue*, en haut de cette page, puis sur *New issue*. Gardez à l'esprit des êtres humains sont susceptibles de vous lire et de vous répondre, vous augmentez donc vos chances de réponses si vous faites preuve de courtoisie et de respect.
+Cliquez sur l'onglet *Issue*, en haut de cette page, puis sur *New issue*. Notez que des êtres humains sont susceptibles de vous lire et de vous répondre, vous augmentez donc vos chances de réponses si vous faites preuve de courtoisie et d'amabilité.
 
-### Pourquoi GitHub ?
+### Pourquoi GitHub ? C'est un truc de geek ça, non ?
 
 nutCreation est un projet initié par une [agence web](https://www.onlinecreation.pro) qui utilise beaucoup GitHub dans ses travaux. Même si c'est un outil avant tout créé pour le développement informatique, c'est aussi une excellente plateforme permettant de faciliter les travaux sur des textes. Gardez à l'esprit que nous ne réalisons pas une simple recette de cuisine, mais une révolution !
 
@@ -73,6 +80,8 @@ nutCreation est un projet initié par une [agence web](https://www.onlinecreatio
 
 Votre seule obligation est de publier votre code source (votre recette) par un moyen accessible facilement à tous les consommateurs de votre préparation, leur permettant de la reproduire eux-même, chez eux. Si vous respectez ce principe, ce que vous faites de votre nutCreation ne regarde que vous : vous êtes responsables de votre création et de toutes les conséquences que cela peut avoir pour vous et votre entourage, y compris les problèmes d'addiction.
 
-### Vous êtes sérieux ?
+Ceci dit, si vous avez tout ce qu'il faut pour devenir riche avec nutCreation, faites-vous plaisir. Pensez à nous si vous avez besoin de faire un site internet 😁
 
-Quand il s'agit de chocolat, toujours !
+### Vous êtes sérieux !?
+
+Quand il s'agit de chocolat, toujours ! 😎
