@@ -6,13 +6,13 @@ La révolution à tartiner, à préparer en cinq minutes.
 
 > Note : les meilleurs résultats ont été observés avec du chocolat de la marque Nestlé Dessert.
 
-Pour un pot de 175g environ
+Pour un pot de 240g environ
 
+- Huile de noisette (10 cl, env. 20 cuillères à café ou env. 90g)
 - Chocolat au lait praliné ≈40% cacao (85 g, environ 1/2 plaquette)
 - Chocolat noir ≈50% cacao (25 g, environ 1/8 plaquette)
-- Purée de noisettes (1 cl, env. 2 cuillères à café ou env. 14g)
-- Huile de noisette (5 cl, env. 10 cuillères à café ou env. 45g)
-- Eau (0.5cl, env. 1 cuillière à café ou 5g)
+- Eau (2.5cl, env. 5 cuillière à café ou 25g)
+- Purée de noisettes (1 cl, env. 2 cuillères à café ou env. 15g)
 - Sel (0.25g, env. un quart de cuillière à café rase ou un quart de sachet individuel)
 
 ## Préparation
